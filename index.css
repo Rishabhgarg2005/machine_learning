@@ -1,0 +1,12 @@
+p{
+ color :red;
+};
+ul{
+ color :blue;
+};
+li{
+ color :green;
+};
+ul li{
+ font-size :20px;
+};
